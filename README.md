@@ -1,4 +1,4 @@
-<img align="right" height="530em" src="https://raw.githubusercontent.com/gist/DudaPro1/f6008d0b7b347ab63f90aff07f359faa/raw/7ad4d76bfbb0466ff7167144e5e44057b3bdf1a8/githubCard.svg"/>
+<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/DudaPro1/f6008d0b7b347ab63f90aff07f359faa/raw/7ad4d76bfbb0466ff7167144e5e44057b3bdf1a8/githubCard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/DudaPro1/DudaPro1/master/hi.gif" height="30px">, I'm Maria Eduarda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
